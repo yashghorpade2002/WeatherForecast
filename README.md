@@ -7,3 +7,6 @@ LocalStack- It's a tool which runs locally on our system and which can be used t
 In this project I have mainly focused on creating a container in docker and an image of localStack running into it. In the further process I have created a table into dynamoDb database and that table will hold the cityName, temperature, summary, Date into it. Additionally I have also created an SQS queue which is used for asynchronous communication between the application and the DynamoDb database.
 
 A WebApi is exported into swaggerUI and which takes the temperature data and adds it to the DynamoDb database and also writes it to the SQS queue as well.
+
+Find the demonstration video link below.
+https://drive.google.com/file/d/1YLHZ90nblxxPm-OVvl9Oq4OY4xCyKDyh/view?usp=sharing
