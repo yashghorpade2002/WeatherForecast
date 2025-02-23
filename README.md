@@ -1,4 +1,4 @@
-Weather Forecast 
+<h1>Weather Forecast</h1> 
 
 This repo mainly describes the use case of localstack for the demonstration of the aws services on your local machine. Here we have used amazon dynamoDb and SQS.
 
@@ -8,5 +8,13 @@ In this project I have mainly focused on creating a container in docker and an i
 
 A WebApi is exported into swaggerUI and which takes the temperature data and adds it to the DynamoDb database and also writes it to the SQS queue as well.
 
-Find the demonstration video link below.
+Find the demonstration video link below 👇</br></br>
 https://drive.google.com/file/d/1YLHZ90nblxxPm-OVvl9Oq4OY4xCyKDyh/view?usp=sharing
+
+The screenshots are attached below 👇</br></br>
+
+<img width="614" alt="image" src="https://github.com/user-attachments/assets/fa00cee9-7f8f-44c2-866e-4decca460aee" />
+<br>
+<img width="614" alt="image" src="https://github.com/user-attachments/assets/2e8a1f02-2db3-417f-8d4c-31a42537310c" />
+<br>
+<img width="614" alt="image" src="https://github.com/user-attachments/assets/f4fdac9b-6f8c-4042-b691-bccc1ea82be0" />
