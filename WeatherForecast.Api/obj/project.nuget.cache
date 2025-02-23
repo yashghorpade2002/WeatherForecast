@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "hiZuDycCzjY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yashg\\OneDrive\\Desktop\\Dot Net Core and AWS Localstack\\WeatherForecast\\WeatherForecast.Api\\WeatherForecast.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yashg\\.nuget\\packages\\awssdk.core\\3.7.402.5\\awssdk.core.3.7.402.5.nupkg.sha512",
+    "C:\\Users\\yashg\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.405.26\\awssdk.dynamodbv2.3.7.405.26.nupkg.sha512",
+    "C:\\Users\\yashg\\.nuget\\packages\\awssdk.extensions.netcore.setup\\3.7.400\\awssdk.extensions.netcore.setup.3.7.400.nupkg.sha512",
+    "C:\\Users\\yashg\\.nuget\\packages\\awssdk.sqs\\3.7.400.99\\awssdk.sqs.3.7.400.99.nupkg.sha512",
+    "C:\\Users\\yashg\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.13\\microsoft.aspnetcore.openapi.8.0.13.nupkg.sha512",
+    "C:\\Users\\yashg\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\yashg\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\2.0.0\\microsoft.extensions.configuration.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\yashg\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\yashg\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.0.0\\microsoft.extensions.logging.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\yashg\\.nuget\\packages\\microsoft.extensions.primitives\\2.0.0\\microsoft.extensions.primitives.2.0.0.nupkg.sha512",
+    "C:\\Users\\yashg\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
+    "C:\\Users\\yashg\\.nuget\\packages\\swashbuckle.aspnetcore\\6.6.2\\swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
+    "C:\\Users\\yashg\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.6.2\\swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
+    "C:\\Users\\yashg\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.6.2\\swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
+    "C:\\Users\\yashg\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.6.2\\swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512",
+    "C:\\Users\\yashg\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.4.0\\system.runtime.compilerservices.unsafe.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

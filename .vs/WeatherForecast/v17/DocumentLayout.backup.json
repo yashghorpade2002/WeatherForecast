@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yashg\\OneDrive\\Desktop\\Dot Net Core and AWS Localstack\\WeatherForecast\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C7248EC-74E0-4AB4-BB5C-078AA2872E70}|WeatherForecast.Api\\WeatherForecast.Api.csproj|c:\\users\\yashg\\onedrive\\desktop\\dot net core and aws localstack\\weatherforecast\\weatherforecast.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C7248EC-74E0-4AB4-BB5C-078AA2872E70}|WeatherForecast.Api\\WeatherForecast.Api.csproj|solutionrelative:weatherforecast.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C7248EC-74E0-4AB4-BB5C-078AA2872E70}|WeatherForecast.Api\\WeatherForecast.Api.csproj|c:\\users\\yashg\\onedrive\\desktop\\dot net core and aws localstack\\weatherforecast\\weatherforecast.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7C7248EC-74E0-4AB4-BB5C-078AA2872E70}|WeatherForecast.Api\\WeatherForecast.Api.csproj|solutionrelative:weatherforecast.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\yashg\\OneDrive\\Desktop\\Dot Net Core and AWS Localstack\\WeatherForecast\\WeatherForecast.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WeatherForecast.Api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\yashg\\OneDrive\\Desktop\\Dot Net Core and AWS Localstack\\WeatherForecast\\WeatherForecast.Api\\appsettings.Development.json",
+              "RelativeToolTip": "WeatherForecast.Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-23T11:36:37.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yashg\\OneDrive\\Desktop\\Dot Net Core and AWS Localstack\\WeatherForecast\\WeatherForecast.Api\\Program.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\yashg\\OneDrive\\Desktop\\Dot Net Core and AWS Localstack\\WeatherForecast\\WeatherForecast.Api\\Program.cs",
+              "RelativeToolTip": "WeatherForecast.Api\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T04:25:45.06Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
